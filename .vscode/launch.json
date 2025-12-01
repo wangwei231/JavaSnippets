@@ -1,0 +1,226 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ConvertDemo",
+            "request": "launch",
+            "mainClass": "com.example.ConvertDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "ClassDemo",
+            "request": "launch",
+            "mainClass": "com.example.ClassDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "ScannerDemo",
+            "request": "launch",
+            "mainClass": "com.example.ScannerDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "LinkedHashMapDemo",
+            "request": "launch",
+            "mainClass": "com.example.LinkedHashMapDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "GenericDemo",
+            "request": "launch",
+            "mainClass": "com.example.GenericDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "Obejcts",
+            "request": "launch",
+            "mainClass": "com.example.Obejcts",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "LRUCache",
+            "request": "launch",
+            "mainClass": "com.example.LRUCache",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "com.example.Solution",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "ArraysDemo",
+            "request": "launch",
+            "mainClass": "com.example.ArraysDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo",
+            "request": "launch",
+            "mainClass": "com.example.StreamDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "HandleException",
+            "request": "launch",
+            "mainClass": "com.example.HandleException",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "LocalDateTimeDemo",
+            "request": "launch",
+            "mainClass": "com.example.LocalDateTimeDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "HandleInterruptExample",
+            "request": "launch",
+            "mainClass": "com.example.HandleInterruptExample",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "CountDownLatchDemo1",
+            "request": "launch",
+            "mainClass": "com.example.CountDownLatchDemo1",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "CreateThread",
+            "request": "launch",
+            "mainClass": "com.example.CreateThread",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "SemaphoreLimitDemo",
+            "request": "launch",
+            "mainClass": "com.example.SemaphoreLimitDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "ThreadLocalDemo",
+            "request": "launch",
+            "mainClass": "com.example.ThreadLocalDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "HashMapDemo",
+            "request": "launch",
+            "mainClass": "com.example.HashMapDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "ReentrantLockPCDemo",
+            "request": "launch",
+            "mainClass": "com.example.ReentrantLockPCDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "LinkedHashSetExample",
+            "request": "launch",
+            "mainClass": "com.example.LinkedHashSetExample",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "HashSetExample",
+            "request": "launch",
+            "mainClass": "com.example.HashSetExample",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "MapDemo",
+            "request": "launch",
+            "mainClass": "com.example.MapDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListExample",
+            "request": "launch",
+            "mainClass": "com.example.ArrayListExample",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo",
+            "request": "launch",
+            "mainClass": "com.example.StringDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "JdbcDemo",
+            "request": "launch",
+            "mainClass": "com.example.JdbcDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "IoDemo",
+            "request": "launch",
+            "mainClass": "com.example.IoDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "ByteDemo",
+            "request": "launch",
+            "mainClass": "com.example.ByteDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "Consumer",
+            "request": "launch",
+            "mainClass": "com.example.Consumer",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "Producer",
+            "request": "launch",
+            "mainClass": "com.example.Producer",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.example.App",
+            "projectName": "java-snippets"
+        },
+        {
+            "type": "java",
+            "name": "JedisDemo",
+            "request": "launch",
+            "mainClass": "com.example.JedisDemo",
+            "projectName": "java-snippets"
+        },
+        {
+            "env": {
+                "DISPLAY": "localhost:10.0"
+            }
+        }
+    ]
+}
